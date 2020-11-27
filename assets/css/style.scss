@@ -4,9 +4,8 @@
 @import 'jekyll-theme-cayman';
 
 body {
+    background-image: linear-gradient(120deg, #1a4a7a, #3da5e1);
     
-    background: #191919;
-    color:#FFF;
 }
 .main-content pre {
     
@@ -18,9 +17,10 @@ body {
     background-color: #000000;
 }
 .page-header {
-    color: #fff;
+    
     text-align: center;
-    background-color: #159957;
-    background-image: linear-gradient(120deg, #1a4a7a, #3da5e1);
+    background-color:#ffffff00;
+    background-image: linear-gradient(120deg, #1a4a7a00, #3da5e100);
+
 }
 
