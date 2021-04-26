@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-window.location.replace("https://www.twitch.tv/derrikcreates");
+{% include_relative TwitchRedirect.html %}
